@@ -9,10 +9,10 @@
             // CCSPlayer::OnTakeDamage_Alive(CTakeDamageInfo const&)+125     mov     edx, [ecx+4444]
             // CCSPlayer::OnTakeDamage_Alive(CTakeDamageInfo const&)+12B     mov     dword ptr [esp+4], offset aHitgroup ; "hitgroup"
             "m_LastHitGroup"
-			{
-				"windows"	"4443"
-				"linux"		"4444"
-			}
+	    {
+	        "windows"	"4443"
+	        "linux"		"4444"
+	    }
         }
     }
 }
